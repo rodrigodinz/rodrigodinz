@@ -37,12 +37,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/rodrigodinz/rodrigodinz/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### 🐍 Contribuições (Snake Animation)
-
-<p align="center">
-  <img src="https://github.com/rodrigodinz/rodrigodinz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
