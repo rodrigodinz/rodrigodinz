@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou o Rodrigo Diniz! 👋 </h1>
+<h1 align="center"> Olá, meu nome é Rodrigo Diniz! 👋 </h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo (IFSP), em transição para o mercado de Tecnologia com foco em Dados e CRM.
