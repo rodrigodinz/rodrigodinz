@@ -31,15 +31,18 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigodinz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Rodrigo" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
-</p>
+<div>
+  <a href="https://github.com/rodrigodinz">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodiniz&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ---
 
 ### 🐍 Contribuições (Snake Animation)
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/rodrigodinz/rodrigodinz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
