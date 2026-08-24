@@ -27,16 +27,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div>
-  <a href="https://github.com/rodrigodinz">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodiniz&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![Snake animation](https://github.com/rodrigodinz/rodrigodinz/blob/output/github-contribution-grid-snake.svg)
 
 
